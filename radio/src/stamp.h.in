@@ -1,0 +1,10 @@
+#define DATE    "@DATE@"
+
+#define VERSION "@VERSION@"
+
+#define TIME    "11.48 PM"
+
+#define VERSION_MAJOR     @VERSION_MAJOR@
+#define VERSION_MINOR     @VERSION_MINOR@
+#define VERSION_REVISION  @VERSION_REVISION@
+#define GIT_STR           "@GIT_STR@"
